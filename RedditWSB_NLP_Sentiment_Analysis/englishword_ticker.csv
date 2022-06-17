@@ -1,0 +1,550 @@
+,ticker,name,clean_names
+0,a,agilent tech. corp.,agilent
+1,aa,alcoa inc.,alcoa
+3,aal,american airlines group inc.,american airlines
+14,abb,abb ltd.,abb
+40,ach,aluminum corp. of china ltd.,aluminum corp. of china
+50,acor,acorda therapeutics inc.,acorda therapeutics
+51,acre,ares commercial real estate corp.,ares commercial real estate
+86,aer,aercap holdings nv,aercap nv
+88,aes,aes corp. (the),aes corp.
+99,agen,agenus inc.,agenus
+103,agio,agios pharmaceuticals inc.,agios pharmaceuticals
+107,ago,assured guaranty ltd.,assured guaranty
+120,ai,c3.ai inc.,c3.ai
+126,air,aar corp.,aar
+129,ait,applied industrial techs. inc.,applied industrial techs
+141,al,air lease corp.,air lease
+142,alb,albemarle corp.,albemarle
+146,ale,allete inc.,allete
+147,alec,alector inc.,alector
+149,alfa,alphaclone alternative alpha etf,alphaclone alternative alpha etf
+153,alk,alaska air group inc.,alaska air
+155,all,allstate corp. (the),allstate corp.
+160,ally,ally financial inc.,ally financial
+166,alt,altimmune inc.,altimmune
+173,am,antero midstream partners lp,antero midstream
+175,amba,ambarella inc.,ambarella
+181,ame,ametek inc.,ametek
+203,amt,american tower corp.,american tower
+210,an,autonation inc.,autonation
+218,ango,angiodynamics inc.,angiodynamics
+223,ante,airnet technology inc.,airnet technology
+230,apa,apache corp.,apache
+234,apex,apex global brands inc.,apex global brands
+248,apt,alpha pro tech ltd.,alpha pro
+260,aqua,evoqua water technologies corp.,evoqua water
+261,ar,antero resources corp.,antero resources
+264,arc,arc document solutions inc.,arc document solutions
+267,arch,arch coal inc. class a,arch coal class a
+272,are,alexandria real estate equities inc.,alexandria real estate equities
+285,arna,arena pharma. inc.,arena pharma
+288,arow,arrow financial corp,arrow financial
+301,ash,ashland inc.,ashland
+318,at,atlantic power corp.,atlantic power
+336,atom,atomera inc,atomera
+351,auto,autoweb inc.,autoweb
+353,ava,avista corp.,avista
+361,avid,avid technology inc.,avid technology
+371,away,etfmg travel tech etf,etfmg travel etf
+377,ax,axos financial inc.,axos financial
+383,axon,axon enterprise inc.,axon enterprise
+390,ay,atlantica yield plc,atlantica yield
+396,azo,autozone inc.,autozone
+400,b,barnes group inc.,barnes
+401,ba,boeing co. (the),boeing
+402,baba,alibaba group holding ltd,alibaba
+403,bac,bank of america corp.,bank of america
+404,bah,booz allen hamilton holding corp.,booz allen hamilton
+405,bal,ipath bloomberg cotton subtr etn,ipath bloomberg cotton subtr etn
+407,bam,brookfield asset management inc.,brookfield asset management
+408,banc,banc of california inc.,banc of california
+409,band,bandwidth inc.,bandwidth
+412,bap,credicorp ltd.,credicorp
+452,be,bloom energy corp.,bloom energy
+453,beam,beam therapeutics inc.,beam therapeutics
+454,beat,biotelemetry inc.,biotelemetry
+459,ben,franklin resources inc.,franklin resources
+463,best,best inc.,best inc.
+483,bib,proshares ultra nasdaq biotechnology etf,proshares ultra nasdaq biotechnology etf
+485,big,big lots inc.,big lots
+490,bill,bill.com holdings inc.,bill.com
+494,bis,proshares ultrashort nasdaq biotech etf,proshares ultrashort nasdaq biotech etf
+524,blue,bluebird bio inc.,bluebird bio
+546,boil,proshares ultra dj-ubs natural gas subindex etf,proshares ultra dj-ubs natural gas subindex etf
+548,bond,pimco total return etf,pimco total return etf
+549,boom,dynamic materials corp.,dynamic materials
+550,boot,boot barn holdings inc.,boot barn
+552,box,box inc.,box inc.
+596,bud,anheuser-busch inbev adr,anheuser-busch inbev
+597,bug,global x cybersecurity etf,global x cybersecurity etf
+598,bur,burford capital ltd,burford capital
+599,burl,burlington stores inc.,burlington stores
+619,c,citigroup inc.,citigroup
+625,cade,cadence bancorp.,cadence bancorp
+628,cag,conagra inc.,conagra
+632,cake,cheesecake factory inc.,cheesecake factory
+633,cal,calares inc.,calares
+635,calm,cal-maine foods inc.,cal-maine foods
+636,calx,calix inc.,calix
+637,camp,calamp corp.,calamp
+639,can,canaan inc.,canaan
+640,cane,teucrium sugar etf,teucrium sugar etf
+643,car,avis budget group inc.,avis budget
+646,carr,carrier global corp.,carrier global
+649,cash,meta financial group inc.,meta financial
+650,cass,cass information systems inc.,cass information systems
+652,cat,caterpillar inc.,caterpillar
+704,ce,celanese corp.,celanese
+711,cent,central garden & pet co.,central garden & pet
+717,cern,cerner corp.,cerner
+736,chad,direxion daily csi 300 china a share bear etf,direxion daily csi 300 china a share bear etf
+741,che,chemed corp.,chemed
+742,chef,chefs` warehouse inc. (the),chefs ` warehouse
+745,chic,global x msci china comm services etf,global x msci china comm services etf
+765,cig,companhia energetica de minas gerais sa,companhia energetica de minas gerais
+771,cit,cit group inc.,cit
+852,cog,cabot oil & gas corp.,cabot oil & gas
+856,cold,americold realty trust,americold realty
+857,coll,collegium pharmaceutical inc.,collegium pharmaceutical
+860,cone,cyrusone inc.,cyrusone
+861,conn,conns inc.,conns
+862,coo,cooper companies inc.,cooper companies
+863,coop,mr. cooper group inc.,mr. cooper
+864,cop,conocophillips,conocophillips
+865,cor,coresite realty corp.,coresite realty
+866,core,core-mark holding company inc.,core-mark company
+867,corn,teucrium corn futures etf,teucrium corn futures etf
+870,cost,costco wholesale corp.,costco wholesale
+872,coup,coupa software inc,coupa software
+873,cow,ipath bloomberg livestock subindex tot return etn,ipath bloomberg livestock subindex tot return etn
+903,cree,cree research inc.,cree research
+915,croc,proshares ultrashort australian dollar etf,proshares ultrashort australian dollar etf
+923,crus,cirrus logic inc.,cirrus logic
+928,cry,cryolife inc.,cryolife
+964,cub,cubic corp.,cubic
+965,cube,cubesmart,cubesmart
+966,cubi,customers bancorp inc.,customers bancorp
+967,cue,cue biopharma inc.,cue biopharma
+970,cure,direxion daily healthcare bull 3x etf,direxion daily healthcare bull 3x etf
+1020,d,dominion energy inc.,dominion energy
+1022,dada,dada nexus ltd,dada nexus
+1024,dal,delta air lines inc.,delta air lines
+1025,dan,dana holding corp.,dana
+1026,dao,youdao inc.,youdao
+1027,dar,darling intl. inc.,darling intl
+1028,dash,doordash inc.,doordash
+1057,de,deere & co.,deere &
+1059,deck,deckers outdoor corp.,deckers outdoor
+1060,deep,roundhill acquirers deep value etf,roundhill acquirers deep value etf
+1062,dell,dell technologies inc.,dell
+1088,dig,proshares ultra oil & gas etf,proshares ultra oil & gas etf
+1089,din,dine brands global inc.,dine brands global
+1091,dis,walt disney company (the),walt disney company
+1094,dish,echostar comm. corp.,echostar comm
+1119,doc,physicians realty trust,physicians realty
+1122,dog,proshares short dow 30 etf,proshares short dow 30 etf
+1124,don,wisdomtree midcap dividend etf,wisdomtree midcap dividend etf
+1125,door,masonite international corp.,masonite
+1126,dorm,dorman products inc.,dorman products
+1128,dow,dow chemical company (the),dow chemical company
+1139,drip,direxion dly s&p oil&gs ex&prd br 3x etf,direxion dly s & p oil & gs ex & prd br 3x etf
+1158,dug,proshares ultrashort oil & gas etf,proshares ultrashort oil & gas etf
+1161,dust,direxion gold miners bear 3x etf,direxion gold miners bear 3x etf
+1181,e,eni spa ads,eni spa ads
+1182,ea,electronic arts inc.,electronic arts
+1184,ear,eargo inc.,eargo
+1186,eat,brinker intl. inc.,brinker intl
+1194,ebon,ebang international holdings inc.,ebang
+1199,echo,echo global logistics inc.,echo global logistics
+1209,edit,editas medicine inc.,editas medicine
+1234,ego,eldorado gold corp.,eldorado gold
+1248,el,estee lauder co. inc. class a,estee lauder class a
+1250,eld,wisdomtree emerging markets local debt etf,wisdomtree emerging markets local debt etf
+1251,elf,e.l.f. beauty inc.,e.l.f beauty
+1255,els,equity lifestyles properties inc.,equity lifestyles properties
+1259,eme,emcor group inc.,emcor
+1276,ens,enersys,enersys
+1307,eric,ericsson adr class b,ericsson class b
+1313,es,eversource energy,eversource energy
+1314,esca,escalade inc.,escalade inc.
+1324,ess,essex property trust inc.,essex property
+1344,ever,everquote inc.,everquote
+1390,eye,national vision holdings inc.,national vision
+1391,eyen,eyenovia inc.,eyenovia
+1397,f,ford motor co.,ford motor
+1400,fan,first trust global wind energy etf,first global wind energy etf
+1401,fang,diamondback energy inc.,diamondback energy
+1403,faro,faro techs. inc.,faro techs
+1405,fast,fastenal co.,fastenal
+1406,fate,fate therapeutics inc.,fate therapeutics
+1437,fe,firstenergy corp.,firstenergy
+1444,fet,forum energy technologies inc.,forum energy
+1447,fez,spdr euro stoxx 50 etf,spdr euro stoxx 50 etf
+1462,fi,franks international n.v.,franks n.v
+1464,fico,fair isaac corp.,fair isaac
+1473,five,five below inc.,five below
+1477,fix,comfort systems usa inc.,comfort systems usa
+1479,fizz,national beverage corp.,national beverage
+1482,flex,flex ltd.,flex ltd.
+1489,flow,spx flow inc.,spx flow
+1495,fly,fly leasing ltd.,fly leasing
+1518,foe,ferro corp.,ferro
+1519,fold,amicus therapeutics inc.,amicus therapeutics
+1520,for,forestar real estate group inc.,forestar real estate
+1521,form,formfactor inc.,formfactor
+1524,four,shift4 payments inc.,shift4 payments
+1525,fox,twenty-first century fox inc. class b,twenty-first century fox class b
+1538,free,whole earth brands inc.,whole earth brands
+1546,fro,frontline ltd.,frontline
+1547,frog,jfrog ltd.,jfrog
+1582,fun,cedar fair lp,cedar fair
+1609,g,genpact ltd.,genpact
+1612,gain,gladstone investment corp.,gladstone investment
+1613,galt,galectin therapeutics inc.,galectin therapeutics
+1615,gan,gan limited,gan limited
+1618,gau,galiano gold inc.,galiano gold
+1636,ge,general electric co.,general electric
+1638,gel,genesis energy lp,genesis energy
+1639,gem,goldman sachs activebeta emkts eq etf,goldman sachs activebeta emkts eq etf
+1640,gen,genesis healthcare inc.,genesis healthcare
+1641,gene,genetic technologies ltd.,genetic
+1642,geo,geo group inc. (the),geo
+1644,germ,etfmg treatments & testing & advancements etf,etfmg treatments & testing & advancements etf
+1659,gib,cgi group inc.,cgi
+1665,gild,gilead sciences inc.,gilead sciences
+1666,gilt,gilat satellite networks ltd.,gilat satellite networks
+1672,glad,gladstone capital corp.,gladstone capital
+1682,glop,gaslog partners lp,gaslog
+1715,go,grocery outlet holding corp.,grocery outlet
+1720,gogo,gogo inc.,gogo
+1721,gol,gol linhas aereas inteligentes s.a.,gol linhas aereas inteligentes
+1722,gold,randgold resources ltd.,randgold resources
+1723,golf,acushnet holdings corp.,acushnet
+1724,good,gladstone commercial corp.,gladstone commercial
+1744,gra,w.r. grace & co.,w.r. grace &
+1750,grow,u.s. global investors inc.,u.s. global investors
+1753,grub,grubhub inc.,grubhub
+1783,guru,global x solactive guru holdings index etf,global x solactive guru index etf
+1784,gush,direxion dly s&p oil&gs ex&prd bl 3x etf,direxion dly s & p oil & gs ex & prd bl 3x etf
+1797,h,hyatt hotels corp.,hyatt hotels
+1798,ha,hawaiian holdings inc.,hawaiian
+1799,hack,etfmg prime cyber security etf,etfmg prime cyber security etf
+1802,hain,hain food group inc,hain food
+1804,hall,hallmark financial services inc.,hallmark financial services
+1805,halo,halo technology holdings inc.,halo technology
+1806,harp,harpoon therapeutics inc.,harpoon therapeutics
+1829,he,hawaiian electric indus. inc.,hawaiian electric indus
+1830,hear,turtle beach corp.,turtle beach
+1834,hei,heico corp.,heico
+1835,hele,helen of troy ltd.,helen of troy
+1836,hep,holly energy partners lp,holly energy
+1838,hero,global x video games & esports etf,global x video games & esports etf
+1850,hi,hillenbrand inc.,hillenbrand
+1880,hog,harley-davidson inc.,harley-davidson
+1884,home,at home group inc.,at home
+1887,hook,hookipa pharma inc.,hookipa pharma
+1888,hope,hope bancorp inc.,hope bancorp
+1923,hubb,hubbell inc.,hubbell
+1926,huge,fsd pharma inc.,fsd pharma
+1927,hum,humana inc.,humana
+1971,ice,intercontinental exchange inc.,intercontinental exchange
+1979,icon,iconix brand group inc.,iconix brand
+2026,ihi,ishares dow jones us medical devices etf,ishares dow jones us medical devices etf
+2058,indy,ishares s&p india nifty 50 index etf,ishares s & p india nifty 50 index etf
+2063,ing,ing group nv ads,ing nv ads
+2067,inn,summit hotel properties inc.,summit hotel properties
+2083,io,input/output inc.,input/output
+2118,it,gartner inc.,gartner
+2172,j,jacobs engineering group inc.,jacobs engineering
+2173,jack,jack in the box inc.,jack in box
+2177,jazz,jazz pharmaceuticals inc.,jazz pharmaceuticals
+2208,jo,ipath bloomberg coffee subtr etn,ipath bloomberg coffee subtr etn
+2210,joe,st joe co. (the),st joe
+2218,just,goldman sachs just us large cap eq etf,goldman sachs just us large cap eq etf
+2223,k,kellogg co.,kellogg
+2224,kai,kadant inc.,kadant
+2225,kala,kala pharmaceuticals inc.,kala pharmaceuticals
+2245,kep,korea electric power corp. ads,korea electric power corp. ads
+2246,kern,akerna corp.,akerna
+2247,kex,kirby corp.,kirby
+2248,key,keycorp,keycorp
+2256,kim,kimco realty corp.,kimco realty
+2257,kin,kindred biosciences inc.,kindred biosciences
+2258,kirk,kirkland`s inc.,kirkland ` s
+2276,knop,knot offshore partners lp,knot offshore
+2280,ko,coca-cola co. (the),coca-cola
+2285,kop,koppers holdings inc.,koppers
+2288,kos,kosmos energy ltd.,kosmos energy
+2291,kra,kraton performance polymers inc.,kraton performance polymers
+2319,l,loews corp.,loews
+2322,lac,lithium americas corp.,lithium americas
+2323,lad,lithia motors inc.,lithia
+2325,lake,lakeland industries inc.,lakeland industries
+2328,land,gladstone land corp.,gladstone land
+2330,laur,laureate education inc.,laureate education
+2351,lea,lear corp.,lear
+2352,leaf,leaf group ltd.,leaf group ltd.
+2354,lee,lee enterprises inc.,lee enterprises
+2355,leg,leggett & platt inc.,leggett & platt
+2361,leu,centrus energy corp.,centrus energy
+2375,li,li auto inc.,li auto
+2379,lin,linde plc,linde
+2382,lit,global x lithium & battery tech etf,global x lithium & battery etf
+2383,lite,lumentum holdings inc.,lumentum
+2405,lob,live oak bancshares inc.,live oak bancshares
+2406,loco,el pollo loco holdings inc.,el pollo loco
+2407,lode,comstock mining inc.,comstock mining
+2409,loma,loma negra compania industrial argentina sociedad,loma negra compania industrial argentina sociedad
+2410,lone,lonestar resources us inc.,lonestar resources us
+2411,loop,loop industries inc.,loop industries
+2412,lope,grand canyon education inc.,grand canyon education
+2415,loup,innovator loup frontier tech etf,innovator loup frontier etf
+2416,love,lovesac company (the),lovesac company
+2417,low,lowes companies inc.,lowes companies
+2445,lulu,lululemon athletica inc.,lululemon athletica
+2461,m,macys inc.,macys
+2462,ma,mastercard inc.,mastercard
+2464,mac,macerich co.,macerich
+2465,mack,merrimack pharmaceuticals inc.,merrimack pharmaceuticals
+2466,mag,magnetek inc.,magnetek
+2469,main,main street capital corp.,main street capital
+2470,man,manpowergroup inc.,manpowergroup
+2472,mant,mantech intl.,mantech intl
+2474,mar,marriott intl. inc.,marriott intl
+2476,mark,remark media inc.,remark media
+2477,mas,masco corp.,masco
+2479,mat,mattel inc.,mattel
+2528,mesa,mesa air group inc.,mesa air
+2529,meso,mesoblast ltd,mesoblast
+2530,met,metlife inc.,metlife
+2557,mho,m/i homes inc.,m/i homes
+2562,mime,mimecast ltd,mimecast
+2563,mind,mitcham industries inc.,mitcham industries
+2564,mist,milestone pharmaceuticals inc.,milestone pharmaceuticals
+2566,mitt,ag mortgage investment trust inc.,ag mortgage investment
+2598,mo,altria group inc.,altria
+2599,moat,vaneck vectors morningstar wide moat etf,vaneck vectors morningstar wide moat etf
+2605,momo,momo inc.,momo
+2606,moo,vaneck vectors agribusiness etf,vaneck vectors agribusiness etf
+2607,morn,morningstar inc.,morningstar
+2668,mu,micron technology inc.,micron technology
+2674,mux,mcewen mining inc.,mcewen mining
+2689,nail,direxion daily homebuilders & supplies bull 3x etf,direxion daily homebuilders & supplies bull 3x etf
+2690,nak,northern dynasty minerals ltd.,northern dynasty minerals
+2693,nat,nordic american tankers ltd.,nordic american tankers
+2715,nee,nextera energy inc.,nextera energy
+2717,neo,neogenomics inc.,neogenomics
+2720,nep,nextera energy partners lp,nextera energy
+2725,net,cloudflare inc.,cloudflare
+2728,new,puxin ltd,puxin
+2730,newt,newtek business services corp.,newtek business services
+2749,ni,nisource inc.,nisource
+2750,nib,ipath bloomberg cocoa subindex total return etn,ipath bloomberg cocoa subindex total return etn
+2751,nice,nice systems ltd. adr,nice systems ltd.
+2752,nine,nine energy service inc.,nine energy service
+2782,noa,north american construction group ltd.,north american construction
+2786,nog,northern oil and gas inc.,northern oil and gas
+2790,nova,sunnova energy international inc.,sunnova energy
+2793,now,servicenow inc.,servicenow
+2859,o,realty income corp.,realty income
+2888,oii,oceaneering intl. inc.,oceaneering intl
+2898,omer,omeros corp.,omeros
+2903,on,on semiconductor corp.,on semiconductor
+2909,onto,onto innovation inc.,onto innovation
+2913,open,opendoor technologies inc.,opendoor
+2920,or,osisko gold royalties ltd.,osisko gold royalties
+2921,ora,ormat techs. inc.,ormat techs
+2924,orc,orchid island capital inc.,orchid island capital
+2944,otic,otonomy inc.,otonomy
+2950,out,outfront media inc.,outfront media
+2958,oxy,occidental petroleum corp.,occidental petroleum
+2970,pam,pampa energia sa,pampa energia
+2972,par,par technology corp.,par technology
+2973,parr,par pacific holdings inc.,par pacific
+2976,pave,global x u.s. infrastructure development etf,global x u.s. infrastructure development etf
+3016,peak,healthpeak properties inc.,healthpeak properties
+3019,peg,public service enterprise group inc.,public service enterprise
+3020,pega,pegasystems inc.,pegasystems
+3024,pen,penumbra inc.,penumbra
+3027,pep,pepsico inc.,pepsico
+3028,peri,perion network ltd,perion network
+3066,pho,invesco water resources etf,invesco water resources etf
+3069,pi,impinj inc.,impinj
+3070,pick,ishares msci global metals & mining producers etf,ishares msci global metals & mining producers etf
+3071,pico,pico holdings inc.,pico
+3073,pie,invesco dwa emerging markets momentum etf,invesco dwa emerging markets momentum etf
+3075,pin,invesco india etf,invesco india etf
+3077,ping,ping identity holding corp.,ping identity
+3092,plan,anaplan inc.,anaplan
+3093,play,dave & buster`s entertainment inc.,dave & buster ` s entertainment
+3100,plow,douglas dynamics inc.,douglas dynamics
+3105,plug,plug power inc.,plug power
+3106,plus,eplus inc.,eplus
+3121,pool,pool corp.,pool corp.
+3123,post,post holdings inc.,post holdings inc.
+3151,prim,primoris services corp.,primoris services
+3156,pro,pros holdings inc.,pros holdings inc.
+3157,prof,profound medical corp.,profound medical
+3158,prog,progenity inc.,progenity
+3182,pst,proshares ultrashort lehman 7-10 yr trsy etf,proshares ultrashort lehman 7-10 yr trsy etf
+3204,pump,propetro holding corp.,propetro
+3253,quad,quad/graphics inc.,quad/graphics
+3256,quot,quotient technology inc.,quotient technology
+3259,r,ryder system inc.,ryder system
+3260,race,ferrari nv,ferrari nv
+3261,rad,rite aid corp.,rite aid
+3262,rada,rada electronic industries ltd.,rada electronic industries
+3263,rail,freightcar america inc.,freightcar america
+3264,ramp,liveramp holdings inc.,liveramp
+3265,rapt,rapt therapeutics inc.,rapt therapeutics
+3266,rare,ultragenyx pharmaceutical inc.,ultragenyx pharmaceutical
+3267,rave,rave restaurant group inc.,rave restaurant
+3293,re,everest re group ltd.,everest re
+3294,real,realreal inc. (the),realreal
+3296,reed,reeds inc.,reeds
+3297,reet,ishares global reit etf,ishares global etf
+3299,reg,regency centers corp.,regency centers
+3316,rev,revlon inc.,revlon
+3338,rick,rci hospitality holdings inc.,rci hospitality
+3339,ride,lordstown motors corp.,lordstown
+3340,rig,transocean ltd.,transocean
+3343,ring,ishares msci global gold miners etf,ishares msci global gold miners etf
+3344,rio,rio tinto plc ads,rio tinto ads
+3345,riot,riot blockchain inc.,riot blockchain
+3374,road,construction partners inc.,construction partners inc.
+3376,rock,gibraltar steel corp.,gibraltar steel
+3378,rog,rogers corp.,rogers
+3383,roll,rbc bearings inc.,rbc bearings
+3385,root,root inc.,root inc.
+3411,ruby,rubius therapeutics inc.,rubius therapeutics
+3412,run,sunrun inc.,sunrun
+3415,ruth,ruths chris steak house inc.,ruths chris steak house
+3440,sa,seabridge gold inc.,seabridge gold
+3441,saa,proshares ultra small cap 600 etf,proshares ultra small cap 600 etf
+3443,safe,safety income & growth inc.,safety income & growth
+3445,saft,safety insurance group inc.,safety insurance
+3446,sage,sage therapeutics inc.,sage therapeutics
+3447,sah,sonic automotive inc.,sonic automotive
+3449,saic,science applications international corp.,science applications
+3450,sail,sailpoint technologies holdings inc.,sailpoint
+3451,salt,scorpio bulkers inc.,scorpio bulkers
+3452,sam,boston beer co. inc.,boston beer
+3453,san,banco santander sa,banco santander
+3454,sand,sandstorm gold ltd.,sandstorm gold
+3457,sap,sap ag,sap ag
+3461,save,spirit airlines inc.,spirit airlines
+3517,se,sea limited,sea limited
+3521,sect,main sector rotation etf,main sector rotation etf
+3523,see,sealed air corp.,sealed air
+3548,sh,proshares short s&p 500 etf,proshares short s & p 500 etf
+3552,sho,sunstone hotel investors inc.,sunstone hotel investors
+3553,shoo,steven madden ltd.,steven madden
+3554,shop,shopify inc.,shopify
+3556,shy,ishares lehman 1-3 yr treasury etf,ishares lehman 1-3 yr treasury etf
+3559,si,silvergate capital corp.,silvergate capital
+3565,sig,signet jewelers ltd.,signet jewelers
+3569,sil,global x silver miners etf,global x silver miners etf
+3571,silk,silk road medical inc.,silk road medical
+3574,sina,sina corp.,sina
+3578,site,siteone landscape supply inc.,siteone landscape supply
+3581,six,six flags entertainment corp.,six flags entertainment
+3582,size,ishares edge msci usa size factor etf,ishares edge msci usa size factor etf
+3595,sky,skyline champion corp.,skyline champion
+3598,slab,silicon labs,silicon labs
+3627,smog,vaneck vectors low carbon energy etf,vaneck vectors low carbon energy etf
+3635,snap,snap inc.,snap inc.
+3646,snow,snowflake inc.,snowflake
+3654,sny,sanofi sa,sanofi
+3655,so,southern co. (the),southern
+3660,sol,renesola ltd.,renesola
+3661,solo,electrameccanica vehicles corp.,electrameccanica vehicles
+3662,son,sonoco products co.,sonoco products
+3671,spak,defiance next gen spac ipo etf,defiance next gen spac ipo etf
+3696,spot,spotify technology sa,spotify technology
+3716,spy,spdr s&p 500 trust etf,spdr s & p 500 etf
+3736,sri,stoneridge inc.,stoneridge
+3756,st,sensata technologies holding nv,sensata nv
+3758,stag,stag industrial inc.,stag industrial
+3759,star,istar financial inc.,istar financial
+3760,stay,extended stay america inc.,extended stay america
+3765,step,stepstone group inc.,stepstone
+3768,stim,neuronetics inc.,neuronetics
+3781,stra,strategic education inc.,strategic education
+3791,sum,summit materials inc.,summit materials
+3793,sun,sunoco lp,sunoco
+3796,sup,superior industries international inc.,superior industries
+3799,surf,surface oncology inc.,surface oncology
+3826,sync,synacor inc.,synacor
+3832,t,at&t corp.,at & t
+3833,ta,travelcenters of america llc,travelcenters of america llc
+3835,tact,transact techns. inc.,transact techns
+3836,tail,cambria tail risk etf,cambria tail risk etf
+3838,tal,tal education group,tal education
+3840,tan,invesco solar etf,invesco solar etf
+3842,tap,molson coors brewing co.,molson coors brewing
+3843,taro,taro pharmaceutical industries ltd.,taro pharmaceutical industries
+3873,team,atlassian corp. plc,atlassian corp.
+3874,tech,techne corp.,techne
+3875,teck,teck resources ltd.,teck resources
+3880,tell,tellurian inc.,tellurian
+3881,ten,tenneco inc.,tenneco
+3909,tho,thor indus. inc.,thor indus
+3914,tile,interface inc.,interface inc.
+3915,tip,ishares barclays tips bond etf,ishares barclays tips bond etf
+3950,tol,toll brothers inc.,toll brothers
+3951,tot,total sa adr,total sa adr
+3952,tour,tuniu corp,tuniu
+3953,town,townebank,townebank
+3970,tree,lendingtree inc.,lendingtree
+3974,tri,thomson reuters corp.,thomson reuters
+3977,trip,tripadvisor inc.,tripadvisor
+3983,trow,t. rowe price group inc.,t. rowe price
+3992,true,truecar inc.,truecar
+4023,tu,telus corp.,telus
+4025,tup,tupperware corp.,tupperware
+4026,tur,ishares msci turkey invest mkt index etf,ishares msci turkey invest mkt index etf
+4027,turn,180 degree capital corp.,180 degree capital
+4028,tusk,mammoth energy services inc.,mammoth energy services
+4034,twin,twin disc inc.,twin disc
+4038,two,two harbors investment corp.,two harbors investment
+4054,u,unity software inc.,unity software
+4093,ule,proshares ultra euro etf,proshares ultra euro etf
+4104,unit,uniti group inc.,uniti
+4114,ura,global x uranium etf,global x uranium etf
+4116,ure,proshares ultra real estate etf,proshares ultra real estate etf
+4139,ust,proshares ultra 7-10 year treasury etf,proshares ultra 7-10 year treasury etf
+4158,v,visa inc.,visa
+4160,vale,companhia vale ads,companhia vale ads
+4190,veri,veritone inc.,veritone
+4192,vet,vermilion energy inc.,vermilion energy
+4212,vie,viela bio inc.,viela bio
+4218,vis,vanguard industrials vipers etf,vanguard industrials vipers etf
+4248,voe,vanguard msci us mid cap value index etf,vanguard msci us mid cap value index etf
+4249,volt,volt information sciences inc.,volt information sciences
+4294,vug,vanguard growth etf,vanguard growth etf
+4310,w,wayfair inc.,wayfair
+4311,wab,westinghouse air brake techs. corp.,westinghouse air brake techs
+4315,wash,washington trust bancorp inc.,washington bancorp
+4316,wat,waters corp.,waters
+4317,watt,energous corp,energous
+4333,well,welltower inc.,welltower
+4334,wen,wendys company (the),wendys company
+4348,wing,wingstop inc.,wingstop
+4349,wire,encore wire corp.,encore wire
+4350,wish,contextlogic inc.,contextlogic
+4351,wit,wipro ltd. adr,wipro ltd.
+4370,wood,ishares s&p global timber & forestry index etf,ishares s & p global timber & forestry index etf
+4371,woof,petco health and wellness company inc.,petco health and wellness company
+4373,work,slack technologies inc.,slack
+4374,wow,wideopenwest inc.,wideopenwest
+4381,wrap,wrap technologies inc.,wrap
+4409,wy,weyerhaeuser co.,weyerhaeuser
+4410,wynd,wyndham destinations inc.,wyndham destinations
+4411,wynn,wynn resorts ltd.,wynn resorts
+4412,x,u.s. steel corp.,u.s. steel
+4466,y,alleghany corp.,alleghany
+4467,yang,direxion daily china bear 3x etf,direxion daily china bear 3x etf
+4471,yelp,yelp inc.,yelp
+4488,z,zillow group inc.,zillow
+4515,zyme,zymeworks inc.,zymeworks
